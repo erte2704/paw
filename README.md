@@ -38,7 +38,7 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 7. MEAN.io [Dutkiewicz][Kalarus]
 8. Sails.js (http://sailsjs.org/)
 9. Spring [Musioł+Płonka][Kleczko+Freicher]
-10. JavaServer Faces [Fiszer][Serkowski+Tomczyk]
+10. JavaServer Faces [Fiszer+Tytko][Serkowski+Tomczyk]
 11. CodeIgniter [Mazgaj]
 12. Django [Szcześniak]
 13. Laravel [Prus+Chlebuś][Kornafel+Sieńko+Szuba]
